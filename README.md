@@ -11,8 +11,8 @@
 <div>
   <a href="https://www.linkedin.com/in/amandarga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icone linkedin" /></a>
   <a href="mailto:amandargarruda@icloud.com" target="_blank"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="icone icloud" /></a>
-  <a href="https://steamcommunity.com/id/amandargarruda/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="icon steam" /></a>
   <a href="https://www.behance.net/amanda_galvao" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="icon behance" /></a>
+  <a href="https://steamcommunity.com/id/amandargarruda/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="icon steam" /></a>
 </div>
 
 ## 🟣 Habilidades e Tecnologias 🟣
