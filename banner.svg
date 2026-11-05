@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-labelledby="t d">
+  <title id="t">Amanda Galvão</title>
+  <desc id="d">Desenvolvedora Front-end · React · TypeScript</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="240" rx="12"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="240" fill="#0D1117"/>
+    <circle cx="1040" cy="60" r="260" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="12" fill="none" stroke="#30363D"/>
+
+  <text x="64" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#E6EDF3">Amanda Galvão</text>
+  <text x="64" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8B949E">Desenvolvedora Front-end · React · TypeScript</text>
+  <rect x="64" y="176" width="56" height="3" rx="1.5" fill="url(#g)"/>
+</svg>
