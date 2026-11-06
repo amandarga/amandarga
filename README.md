@@ -1,6 +1,6 @@
 <img alt="Amanda Galvão — Desenvolvedora Front-end · React · TypeScript" src="banner.svg" width="100%">
 
-Desenvolvedora front-end em Olinda/PE. Construo interfaces em React e Vue com TypeScript, e venho do design, então penso em componentes e design system do Figma ao código.
+Desenvolvedora front-end. Construo interfaces em React e Vue com TypeScript, e venho do design, então penso em componentes e design system do Figma ao código.
 
 ## 📱 Redes e contatos
 
