@@ -1,10 +1,6 @@
-## 👩‍💻 Oiee! Eu sou Amanda
+<img alt="Amanda Galvão — Desenvolvedora Front-end · React · TypeScript" src="./assets/banner.svg" width="100%">
 
-<ul>
-  <li> 🪧 Analista de Dados, Desenvolvedora de Softwares e Designer de Produto</li>
-  <li> 📌 Pernambuco, Brasil</li>
-</ul>
-
+Desenvolvedora front-end em Olinda/PE. Construo interfaces em React e Vue com TypeScript, e venho do design, então penso em componentes e design system do Figma ao código.
 
 ## 📱 Redes e contatos
 
@@ -12,7 +8,6 @@
   <a href="mailto:amandargarruda@icloud.com" target="_blank"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="icone icloud" /></a>
   <a href="https://www.linkedin.com/in/amandarga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icone linkedin" /></a>
   <a href="https://www.behance.net/amanda_galvao" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="icon behance" /></a>
-  <a href="https://steamcommunity.com/id/amandargarruda/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="icon steam" /></a>
 </div>
 
 ## 🟣 Habilidades e Tecnologias 🟣
@@ -22,14 +17,14 @@
   ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-  ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+  ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-  ![mysql](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
